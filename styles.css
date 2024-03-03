@@ -1,7 +1,4 @@
 /*  your css code here. If applicable */
-*{
-	background-color: rgb(135, 206, 235)
-}
-#1{
-	font-size: 22px;
+:root {
+    background-color: rgb(135, 206, 235);
 }
