@@ -12,7 +12,7 @@
     color: black;
 }
 
-p:last-child {
+.last-child {
     color: red;
 }
 #list{
