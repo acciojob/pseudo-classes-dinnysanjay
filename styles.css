@@ -5,6 +5,7 @@
 .first-child{
     color: white;
     background-color: black;
+	margin-top: 0px;
 }
 
 .nth-child(2) {
