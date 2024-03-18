@@ -31,7 +31,9 @@ p:nth-child(2) {
 p:last-child {
     color: red;
 }
-
+li:nth-child(odd) {
+    background-color: white;
+}
 
 
 
