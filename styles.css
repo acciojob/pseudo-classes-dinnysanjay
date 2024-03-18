@@ -2,23 +2,31 @@
 :root {
     background-color: rgb(135, 206, 235);
 }
-.first-child{
-    color: white;
-    background-color: black;
-	margin-top: 0px;
-}
 
-.nth-child(2) {
-    /* standard text color, depends on what you define as standard. Let's say it's black */
-    color: black;
-}
-
-.last-child {
-    color: red;
-}
 #list{
 	border: 1px;
 }
+
+p:first-child {
+    color: white;
+    background-color: black;
+}
+
+p:nth-child(2) {
+    /* standard text color */
+	 color: black;
+}
+
+p:last-child {
+    color: red;
+}
+
+
+
+
+
+
+
 
 
 
