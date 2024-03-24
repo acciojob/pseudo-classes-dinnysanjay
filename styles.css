@@ -9,7 +9,7 @@ div p:first-child {
 }
 
 div p:nth-child(2) {
-    /* Default text color. No need to specify unless you want a specific color. */
+    color:black;/* Default text color. No need to specify unless you want a specific color. */
 }
 
 div p:last-child {
